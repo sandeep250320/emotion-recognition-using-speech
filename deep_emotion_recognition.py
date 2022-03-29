@@ -1,5 +1,5 @@
 import os
-# disable keras loggings
+# disable keras loggingss
 import sys
 stderr = sys.stderr
 sys.stderr = open(os.devnull, 'w')
